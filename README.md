@@ -23,9 +23,14 @@
 <p>
   I am Benedick Labbao, and this is my profile where you can see most of my works.
 </p>
+<ul>
+  <li><strong>😍 Fell in love with coding during high school (2017)</strong></li>
+  <li><strong>🔥 Passionate when it comes to latest technologies and innovations</strong></li>
+  <li><strong>📧 If you want to contact me: <a href="mailto:benlabbao.work@gmail.com">benlabbao.work@gmail.com</a></strong></li>
+</ul>
 
 ---
-### 🛠️ My Knowledge
+### 🛠️ My Knowledge and Skills
 <div align="center">
   Programming Languages and Embedded Systems That I use
   <br><br>
