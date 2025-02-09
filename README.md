@@ -1,4 +1,8 @@
-
+<!--
+  https://github.com/Ileriayo/markdown-badges
+  https://github.com/antonkomarev/github-profile-views-counter
+  https://github.com/anuraghazra/github-readme-stats
+-->
 <img src="https://komarev.com/ghpvc/?username=wizxrdx&style=flat-square&color=9152cc" alt=""/>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello there! Welcome to my profile!
