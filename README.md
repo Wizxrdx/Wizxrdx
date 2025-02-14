@@ -30,6 +30,7 @@
 <ul>
   <li><strong>😍 Fell in love with coding during high school (2017)</strong></li>
   <li><strong>🔥 Passionate when it comes to latest technologies and innovations</strong></li>
+  <li><strong>🔥 You can check out my projects at my <a href="https://wizxrdx.github.io" target="_blank">Portfolio Website</a></strong></li>
   <li><strong>📧 If you want to contact me: <a href="mailto:benlabbao.work@gmail.com">benlabbao.work@gmail.com</a></strong></li>
 </ul>
 
