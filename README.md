@@ -86,6 +86,7 @@
   <br><br>
 </div>
 
+<!--
 ---
 ### 📖 Check out my stats!
 <div align="center">
@@ -98,3 +99,4 @@
     <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=wizxrdx&show_icons=true&theme=tokyonight&count_private=true&include_orgs=true">  
   </a>
 </div>
+-->
